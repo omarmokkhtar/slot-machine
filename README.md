@@ -3,7 +3,7 @@
 
 By Omar Mokhtar
 
-- A simple slot machine command line tool made with Lumen, all you need to do is to run
+- A simple slot machine command line tool made with Lumen
 
 ## Tech Stack
 
