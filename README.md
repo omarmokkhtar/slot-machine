@@ -3,16 +3,11 @@
 
 By Omar Mokhtar
 
-A simple slot machine.
+- A simple slot machine command line tool made with Lumen, all you need to do is to run
 
 ## Tech Stack
 
 - PHP(Lumen)
-
-
-## Features
-
-- A simple slot machine command line tool made with Lumen, all you need to do is to run
 
 ### Installation
 * Clone repository to your machine:
